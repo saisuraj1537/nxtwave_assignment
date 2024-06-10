@@ -1,0 +1,19 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+.languageBtn {
+  margin: 10px;
+  border: none;
+}
+.colouredBtn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+button {
+  background-color: transparent;
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.responseLi {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px;
+}
+.responseImg {
+  width: 25%;
+}
+.responseName {
+  color: #e73959;
+}
+.responseImgCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.responseRow {
+  display: flex;
+  align-items: center;
+}
+.responseSmallImgs {
+  width: 6%;
+  margin-right: 10px;
+}
